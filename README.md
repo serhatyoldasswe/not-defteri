@@ -145,7 +145,7 @@ dotnet run
 
 | İsim |
 |---|
-| Eme Deniz |
+| Emre Deniz |
 | Serhat Yoldaş |
 | Rustam Asadli |
 
